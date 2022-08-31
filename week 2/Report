@@ -1,0 +1,29 @@
+COMPILE DESIGN 
+SYMBOL TABLE REPORT   
+                                                                                                                  
+                                      M.Teja varma
+                                     AP20110010597
+                                                                                                               
+
+Symbol table is an important data structure created and maintained by compilers in order to store information about the occurrence of various entities such as variable names, function names, objects, classes, interfaces, etc.
+
+   Symbol table is used by both the analysis and the synthesis parts of a compiler.
+
+ A symbol table is simply a table which can be either linear or a hash table. It maintains an entry for each name.
+
+
+Variable names and constants
+Procedure and function names
+Literal constants and strings
+Compiler generated temporaries
+Labels in source languages
+
+Above items are stored in symbol table
+
+
+ 
+
+In  Symbol Table 
+, we are taking expressions from user which contain some integers,characters,and some operators. It will identify characters as identifiers , digits as constants. In the above example 
+ X,a,b are identifiers and
+ =,+ are operators.
